@@ -13,3 +13,6 @@ mike
 mobile
 smart
 @laptop
+smart people
+GGBR
+gold backed
